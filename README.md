@@ -1,7 +1,9 @@
-# STIW2044 MOBILE PROGRAMMING
-#ASSIGNMENT 1 - MY MOVIE APP
+# STIW2044 MOBILE PROGRAMMING (A221)
+ASSIGNMENT 1 - MY MOVIE APP
 
-A new Flutter project.
+Name: Ooi Jing Yi
+No. Matric: 279797
+Group: B
 
 ## Getting Started
 
