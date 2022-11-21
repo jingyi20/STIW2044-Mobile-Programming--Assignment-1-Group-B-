@@ -1,0 +1,4 @@
+#Mon Nov 21 14:33:09 SGT 2022
+base.0=C\:\\Users\\Lenovo\\Documents\\A221\\STIW2044 Mobile Programming (Group B)\\Assigment\\assignment1_movie\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
