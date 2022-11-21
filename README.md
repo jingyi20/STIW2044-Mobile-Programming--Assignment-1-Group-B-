@@ -2,7 +2,9 @@
 ASSIGNMENT 1 - MY MOVIE APP
 
 Name: Ooi Jing Yi
+
 No. Matric: 279797
+
 Group: B
 
 ## Getting Started
