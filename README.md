@@ -1,4 +1,5 @@
-# assignment1_movie
+# STIW2044 MOBILE PROGRAMMING
+#ASSIGNMENT 1 - MY MOVIE APP
 
 A new Flutter project.
 
